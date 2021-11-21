@@ -1,3 +1,7 @@
+# Write A Data Science Blog Post: The Movie Database
+## by (Ahmed Altuwalah)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-rMtmL65ez9lTuK5YSGzanX08cyG1cPPRQ&usqp=CAU)
+
 **Project Overview**
 
 You will examine a dataset and then present your results in this assignment.
@@ -21,3 +25,6 @@ You will:
 - To speed up your data analysis code, you should be able to leverage vectorized operations in NumPy and pandas.
 - Get to about the Series and DataFrame objects in pandas, which make it easier to access your data.
 - Understand how to use Matplotlib to create graphs that demonstrate your findings.
+
+
+#### The main observation are bloged [here](https://medium.com/@ahmedsa0568/tmdb-movie-data-analysis-12ee16f03f99)
